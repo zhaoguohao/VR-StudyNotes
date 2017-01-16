@@ -1,5 +1,4 @@
-# VR-StudyNotes
-VR 学习笔记整理
+# VR 学习笔记整理 (VR-StudyNotes)
 
 ## 目录 # #
 
@@ -19,3 +18,4 @@ VR 学习笔记整理
 - [Unite 2016 ｜实时渲染短片《Adam》揭秘：动画制作](http://forum.china.unity3d.com/thread-20638-1-1.html)
 - [Unity 2016 ｜实时渲染短片《Adam》揭秘：特效制作](http://forum.china.unity3d.com/thread-22473-1-1.html)
 - [Unite 2016 ｜Adam资源包及可执行文件发布](http://forum.china.unity3d.com/thread-21568-1-1.html)
+- [怎样设计 VR 界面和环境，用户才会感到舒适并且被吸引 2016-10-18](http://www.geekpark.net/topics/217001)
