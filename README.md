@@ -9,6 +9,7 @@
 - [005 → 粒子系统 Particle Systems](https://github.com/Isayes/VR-StudyNotes/blob/master/005.md)
 - [006 → 如何减少 VR 移动眩晕](https://github.com/Isayes/VR-StudyNotes/blob/master/006.md)
 - [007 → 优化 VR 体验的 7 个建议](https://github.com/Isayes/VR-StudyNotes/blob/master/007.md)
+- [008 → 刚体 Rigidbody](https://github.com/Isayes/VR-StudyNotes/blob/master/008.md)
 
 ## 传送门 # #
 
