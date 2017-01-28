@@ -10,6 +10,8 @@
 - [006 → 如何减少 VR 移动眩晕](https://github.com/Isayes/VR-StudyNotes/blob/master/006.md)
 - [007 → 优化 VR 体验的 7 个建议](https://github.com/Isayes/VR-StudyNotes/blob/master/007.md)
 - [008 → 刚体 Rigidbody](https://github.com/Isayes/VR-StudyNotes/blob/master/008.md)
+- [009 → VR 中 Unity 的 UI 系统](https://github.com/Isayes/VR-StudyNotes/blob/master/009.md)
+- [010 → 使用 Unity3D 开发 VR 游戏的 6 个必备技巧](https://github.com/Isayes/VR-StudyNotes/blob/master/010.md)
 
 ## 传送门 # #
 
