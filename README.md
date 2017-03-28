@@ -14,6 +14,17 @@
 - [010 → 使用 Unity3D 开发 VR 游戏的 6 个必备技巧](https://github.com/Isayes/VR-StudyNotes/blob/master/010.md)
 - [011 → VR 界面的 What. How. Why.](https://github.com/Isayes/VR-StudyNotes/blob/master/011.md)
 - [012 → 开发 VR 多人游戏的技术挑战](https://github.com/Isayes/VR-StudyNotes/blob/master/012.md)
+- [013 → 对 Unity 游戏动画基础知识的调研](https://github.com/Isayes/VR-StudyNotes/blob/master/013.md)
+- [014 → 对 Unity 精灵对象动画的调研](https://github.com/Isayes/VR-StudyNotes/blob/master/014.md)
+- [015 → 对 Unity 本地动画的调研](https://github.com/Isayes/VR-StudyNotes/blob/master/015.md)
+- [016 → 对 Unity 碰撞器的相关调研](https://github.com/Isayes/VR-StudyNotes/blob/master/016.md)
+- [017 → 对 Unity 烘焙知识的调研](https://github.com/Isayes/VR-StudyNotes/blob/master/017.md)
+- [018 → 对 Unity 阴影技术的调研](https://github.com/Isayes/VR-StudyNotes/blob/master/018.md)
+- [019 → 对 Unity 预制体的调研](https://github.com/Isayes/VR-StudyNotes/blob/master/019.md)
+- [020 → 对 Unity 导航网格 NavMesh 的调研](https://github.com/Isayes/VR-StudyNotes/blob/master/020.md)
+- [021 → 对 Unity 动态加载资源的调研](https://github.com/Isayes/VR-StudyNotes/blob/master/021.md)
+
+
 
 ## 传送门 # #
 
